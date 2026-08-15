@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-qh7bph.salamkita.cfd/sitemap.xml
